@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yomikkey</h1>
 <h3 align="center">A passionate mern stack developer.</h3>
-<img align="right" width="400" src="https://github.com/yomikkey/yomikkey/blob/master/image1.gif" alt="git" /> 
+<img align="right" width="400" src="https://github.com/yomikkey/yomikkey/blob/main/image1.gif" alt="git" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yomikkey&label=Profile%20views&color=0e75b6&style=flat" alt="yomikkey" /> </p>
 
 - 🔭 I’m currently working on [school ERP](https://github.com/cansvolution/school-fe)
@@ -27,4 +27,4 @@
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yomikkey&show_icons=true&locale=en" alt="yomikkey" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/yomikkey/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yomikkey/yomikkey/blob/output/github-contribution-grid-snake.svg)
