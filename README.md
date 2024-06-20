@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yomikkey</h1>
 <h3 align="center">A passionate mern stack developer.</h3>
-<img align="right" width="400" src="https://github.com/nikhil-rawat02/nikhil-rawat02/blob/master/image1.gif" alt="git" /> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-rawat02&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-rawat02" /> </p>
+<img align="right" width="400" src="https://github.com/yomikkey/yomikkey/blob/master/image1.gif" alt="git" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yomikkey&label=Profile%20views&color=0e75b6&style=flat" alt="yomikkey" /> </p>
 
 - 🔭 I’m currently working on [school ERP](https://github.com/cansvolution/school-fe)
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anukul-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilrawat0212" height="30" width="40" /></a>
 <a href="https://instagram.com/yomikkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr._banter" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/yomikkey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilrawat00" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yomikkey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yomikkey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
