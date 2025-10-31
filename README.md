@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [school ERP](https://github.com/cansvolution/school-fe)
 
-- 🌱 I’m currently learning **Solidiy**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **React, Express, React-Native**
 
